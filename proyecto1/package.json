@@ -1,0 +1,19 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "Este es el primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dws",
+    "node",
+    "helloworld"
+  ],
+  "author": "coke",
+  "license": "MIT",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
